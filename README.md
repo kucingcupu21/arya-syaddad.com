@@ -9,7 +9,7 @@ Melalui website ini, diharapkan pengunjung bisa mengenal lebih jauh tentang prof
 ## ✨ Fitur
 - 🏠 **Beranda**: Menyajikan perkenalan singkat dan navigasi utama.  
 - 👨‍💻 **Tentang Saya**: Berisi informasi pribadi dan deskripsi diri.  
-- 📂 **Portfolio**: Menampilkan daftar project atau karya yang pernah dibuat.  
+- 📂 **Projek saya**: Menampilkan daftar project atau karya yang pernah dibuat.  
 - 📞 **Kontak**: Menyediakan informasi untuk menghubungi saya.  
 
 ---
