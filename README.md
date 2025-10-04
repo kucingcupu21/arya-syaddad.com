@@ -20,6 +20,9 @@ Melalui website ini, diharapkan pengunjung bisa mengenal lebih jauh tentang prof
 - **Minggu 3**: Menyempurnakan prototype di Figma dengan perbaikan tata letak dan pengalaman pengguna.  
 - **Minggu 4**: Memulai tahap pengkodean di Visual Studio Code serta mengintegrasikan repository dengan GitHub untuk version control.  
 
+## Link Vercel
+[Portfolio](https://arya-syaddad-com.vercel.app/)
+
 ---
 
 🚀 Dibuat dengan semangat belajar, berkembang, dan berbagi.  
